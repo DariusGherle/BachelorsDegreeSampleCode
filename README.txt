@@ -1,4 +1,4 @@
-# Code sample from my bachelor's thesis
+Code sample from my bachelor's thesis
 
 ThrustAxisController.kt - Calculates body rates and thrust from the target's camera angles
 
